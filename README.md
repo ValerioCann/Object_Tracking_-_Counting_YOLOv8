@@ -10,9 +10,6 @@ It is designed to identify and track reliable cars and trucks in various video s
 - OpenCV
 
 ## Video output
-Full video file on repo
-
-
 
 https://github.com/ValerioCann/Object_Tracking_Counting_YOLOv8/assets/136093296/bf457e6a-02e6-4559-b516-b5b0fe8476b7
 
