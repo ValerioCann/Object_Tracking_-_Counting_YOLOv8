@@ -1,1 +1,1 @@
-# Object_Tracking_-_Counting_YOLOv8
+# Object Tracking & Counting YOLOv8
